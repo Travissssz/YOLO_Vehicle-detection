@@ -1,0 +1,3 @@
+tag,label,ms_per_image,fps
+best_map,pretrained model,24.872589111328125,40.2049016901322
+best_map_pfloor,pretrained model,25.080950260162354,39.870897618594725
